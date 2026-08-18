@@ -25,6 +25,13 @@ p, li {
 ul {
     margin-left: 40px;
 }
-Sent
-Compose
-Write to
+.hero-image {
+    display: block;
+    width: 90%;
+    max-width: 1100px;
+    height: 450px;
+    object-fit: cover;
+    object-position: center;
+    margin: 30px auto;
+    border-radius: 15px;
+}
